@@ -60,7 +60,7 @@ student-learning-strategies/
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/student-learning-strategies.git
+git clone https://github.com/oshpauline/student-learning-strategies.git
 cd student-learning-strategies
 ```
 
